@@ -1,0 +1,31 @@
+{
+  "name": "react-paractice",
+  "version": "1.0.0",
+  "description": "This is React Practice",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmangDhandhukiya/React--From-Scratch.git"
+  },
+  "keywords": [
+    "React",
+    "Js"
+  ],
+  "author": "Umang Dhandhukiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmangDhandhukiya/React--From-Scratch/issues"
+  },
+  "homepage": "https://github.com/UmangDhandhukiya/React--From-Scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
